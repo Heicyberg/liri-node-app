@@ -13,8 +13,7 @@ var spotify = new Spotify(keys.spotify);
 function movieOmdb(title){
    axios.get("http://www.omdbapi.com/?t="+title+"&y=&plot=short&apikey=trilogy").then(
    function(response) {
-    // Then we print out the imdbRating
-    console.log( ' * Title : '+response.data.Title);
+    console.log( '\n * Title : '+response.data.Title);
     console.log( ' * Year : '+response.data.Year);
     console.log( ' * IMDB Rating : '+response.data.imdbRating);
     console.log( ' * Rotten Tomatoes Rating: '+response.data.Ratings[1]["Value"]);
@@ -39,8 +38,14 @@ function concert(title){
            console.log("\n")
            console.log("Name of the venue : " + elment.venue.name)
            console.log("Venue location : " + elment.venue.city+" , "+elment.venue.country)
-           console.log("Date of the Event : " + elment.datetime)
-           var text = "\n  * Name of the venue : " + elment.venue.name + "\n  *Venue location : " + elment.venue.city+" , "+elment.venue.country + "\n  *Date of the Event : " + elment.datetime;
+          
+           var d = new Date(elment.datetime)
+           var yy = d.getUTCFullYear();
+           var mm = d.getUTCMonth() +1 ;
+           var dd = d.getUTCDate();
+           var datePrint = mm + '/'+ dd + '/' + yy;
+           console.log("Date of the Event : " + datePrint)
+           var text = "\n  * Name of the venue : " + elment.venue.name + "\n  * Venue location : " + elment.venue.city+" , "+elment.venue.country + "\n  * Date of the Event : " + datePrint;
            infoLog(text)
        })
    })
@@ -109,8 +114,5 @@ function infoLog(text){
 }
 
 //Excution of the main function
-console.log(action+"  "+ searchTerm)
-
-
   
 appMain(action,searchTerm);

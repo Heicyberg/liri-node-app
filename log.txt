@@ -122,3 +122,134 @@
   * Song's name : Lady
   * Link of the song : https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66
   * Album : Brown Sugar
+
+
+
+* Time : 2018-12-5 14:18:39
+* Command : concert-this Maroon 5
+
+
+  * Name of the venue : Mandalay Bay Events Center
+  * Venue location : Las Vegas , United States
+  * Date of the Event : 12/31/2018
+
+
+  * Name of the venue : Mandalay Bay Events Center
+  * Venue location : Las Vegas , United States
+  * Date of the Event : 1/1/2019
+
+
+  * Name of the venue : Brisbane Entertainment Centre
+  * Venue location : Brisbane , Australia
+  * Date of the Event : 2/20/2019
+
+
+  * Name of the venue : Qudos Bank Arena
+  * Venue location : Sydney , Australia
+  * Date of the Event : 2/22/2019
+
+
+  * Name of the venue : Rod Laver Arena
+  * Venue location : Melbourne , Australia
+  * Date of the Event : 2/23/2019
+
+
+  * Name of the venue : Tokyo Dome
+  * Venue location : Tokyo , Japan
+  * Date of the Event : 2/26/2019
+
+
+  * Name of the venue : Gocheok Sky Dome
+  * Venue location : Seoul , South Korea
+  * Date of the Event : 2/28/2019
+
+
+  * Name of the venue : TBA
+  * Venue location : Kaohsiung City , Taiwan
+  * Date of the Event : 3/2/2019
+
+
+  * Name of the venue : TBA
+  * Venue location : Macau , Macau
+  * Date of the Event : 3/4/2019
+
+
+  * Name of the venue : SM Mall Of Asia
+  * Venue location : Manila , Philippines
+  * Date of the Event : 3/6/2019
+
+
+  * Name of the venue : NATIONAL STADIUM
+  * Venue location : Singapore , Singapore
+  * Date of the Event : 3/8/2019
+
+
+  * Name of the venue : CHALLENGER HALL
+  * Venue location : Bangkok , Thailand
+  * Date of the Event : 3/10/2019
+
+
+  * Name of the venue : Mollenpark
+  * Venue location : Aalborg , Denmark
+  * Date of the Event : 6/1/2019
+
+
+  * Name of the venue : Lanxess Arena
+  * Venue location : Cologne , Germany
+  * Date of the Event : 6/3/2019
+
+
+  * Name of the venue : O2 ARENA
+  * Venue location : Prague , Czech Republic
+  * Date of the Event : 6/5/2019
+
+
+  * Name of the venue : Tauron Arena
+  * Venue location : Kraków , Poland
+  * Date of the Event : 6/6/2019
+
+
+  * Name of the venue : Ziggo Dome
+  * Venue location : Amsterdam , Netherlands
+  * Date of the Event : 6/10/2019
+
+
+  * Name of the venue : AccorHotels Arena
+  * Venue location : Paris , France
+  * Date of the Event : 6/11/2019
+
+* Time : 2018-12-5 14:29:50
+* Command : movie-this space jam
+
+
+  * Title : Space Jam
+  * Year : 1996
+  * IMDB Rating : 6.4
+  * Country : USA
+  * Language : English
+  * Plot : In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
+  * Actors : Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
+
+* Time : 2018-12-5 14:33:34
+* Command : movie-this space jam
+
+
+  * Title : Space Jam
+  * Year : 1996
+  * IMDB Rating : 6.4
+  * Country : USA
+  * Language : English
+  * Plot : In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
+  * Actors : Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
+
+* Time : 2018-12-5 14:35:30
+* Command : movie-this space jam
+
+
+  * Title : Space Jam
+  * Year : 1996
+  * IMDB Rating : 6.4
+  * Country : USA
+  * Language : English
+  * Plot : In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
+  * Actors : Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
