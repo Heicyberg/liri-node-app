@@ -2,39 +2,16 @@ require("dotenv").config();
 
 var Spotify = require("node-spotify-api")
 var axios = require("axios");
+var fs = require("fs")
 
 var action = process.argv[2]
 var searchTerm = process.argv[3]
 
 var keys = require("./keys.js")
-//var spotify = new Spotify(keys.spotify);
-var spotify = new Spotify({
-    id: 'f8850de0c5b746a8ba7a2015d522edcd',
-    secret: '32b51adba98b41b08e2477462ea9e006'
-  });
-//console.log(spotify)
-
-
- // .request('https://api.spotify.com/v1/tracks/shakeitoff')
-spotify.search({ type: 'track', query: 'Sugar'})
-  .then(function(response){
-      response.tracks.items.forEach(function(elment){
-           console.log("\n")
-           console.log(elment.external_urls.spotify)
-           console.log(elment.name)
-           console.log(elment.album.name)
-           console.log(elment.artists)
-           console.log("\n")
-      })
-  })
-  .catch(function(err){
-      console.log(err)
-  })
-
-
+var spotify = new Spotify(keys.spotify);
   
 function movieOmdb(title){
-    axios.get("http://www.omdbapi.com/?t="+title+"&y=&plot=short&apikey=trilogy").then(
+   axios.get("http://www.omdbapi.com/?t="+title+"&y=&plot=short&apikey=trilogy").then(
    function(response) {
     // Then we print out the imdbRating
     console.log( ' * Title : '+response.data.Title);
@@ -45,7 +22,13 @@ function movieOmdb(title){
     console.log( ' * Language : '+response.data.Language);
     console.log( ' * Plot : '+response.data.Plot);
     console.log( ' * Actors : '+response.data.Actors);
+
+    var text = '\n  * Title : '+response.data.Title+'\n  * Year : '+response.data.Year+ '\n  * IMDB Rating : '+response.data.imdbRating+'\n  * Country : '+response.data.Country+
+    '\n  * Language : '+response.data.Language + '\n  * Plot : '+response.data.Plot + '\n  * Actors : '+response.data.Actors;
+    infoLog(text)
+
     });
+    
 }
 
 function concert(title){
@@ -57,15 +40,77 @@ function concert(title){
            console.log("Name of the venue : " + elment.venue.name)
            console.log("Venue location : " + elment.venue.city+" , "+elment.venue.country)
            console.log("Date of the Event : " + elment.datetime)
+           var text = "\n  * Name of the venue : " + elment.venue.name + "\n  *Venue location : " + elment.venue.city+" , "+elment.venue.country + "\n  *Date of the Event : " + elment.datetime;
+           infoLog(text)
        })
    })
 }
 
-switch(action){
-    case 'movie-this':
-    movieOmdb(searchTerm)
-    break;
-    case 'concert-this':
-    concert(searchTerm)
-    break;
+function dothis(){
+    fs.readFile("./random.txt", "utf8", function(err, data) {
+        if (err) {
+          return console.log(err);
+        }
+        var dataArray = data.split(",")
+        appMain(dataArray[0],dataArray[1])
+    })
 }
+
+var today = new Date();
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+var dateTime = date+' '+time;
+
+function appMain(action,searchTerm){
+    // log data of command, including command time
+    var text = '* Time : ' + dateTime + '\n* Command : ' + action+ ' '+ searchTerm;
+    infoLog(text);
+
+    switch(action){
+        case 'movie-this':
+        movieOmdb(searchTerm)
+        break;
+        case 'concert-this':
+        concert(searchTerm)
+        break;
+        case 'spotify-this-song':
+        spotify.search({ type: 'track', query: searchTerm})
+        .then(function(response){
+            //console.log(response)
+        response.tracks.items.forEach(function(elment){
+             var text =  "\n  * Artist(s) : "
+             console.log("\n")
+             elment.artists.forEach(function(semielment){console.log("Artist(s) : ")+ console.log(semielment.name); text += semielment.name + ' ';})
+             console.log("Song's name : " +elment.name)
+             console.log("Link of the song : " + elment.external_urls.spotify)
+             console.log("Album : "+elment.album.name)
+             text = text + "\n  * Song's name : " +elment.name + "\n  * Link of the song : " + elment.external_urls.spotify + "\n  * Album : "+elment.album.name;
+             infoLog(text)
+            })
+         }).catch(function(err){
+        console.log(err)})
+        break;
+        case 'do-what-it-says':
+        dothis()
+        break;
+    }
+}
+
+//creat a function to output the command as well as data to a .txt file called log.txt.
+function infoLog(text){
+    fs.appendFile("log.txt", '\n'+text+'\n', function(err) {
+
+        // If an error was experienced we will log it.
+        if (err) {
+          console.log(err);
+        }
+      
+      });
+}
+
+//Excution of the main function
+console.log(action+"  "+ searchTerm)
+
+
+  
+appMain(action,searchTerm);

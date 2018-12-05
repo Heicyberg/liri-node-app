@@ -1,0 +1,124 @@
+
+
+* Time : 2018-12-5 11:47:53
+* Command : spotify-this-song Sugar
+
+
+  * Artist(s) : Fall Out Boy 
+  * Song's name : Sugar, We're Goin Down
+  * Link of the song : https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE
+  * Album : From Under The Cork Tree
+
+
+  * Artist(s) : Maroon 5 
+  * Song's name : Sugar
+  * Link of the song : https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk
+  * Album : V
+
+
+  * Artist(s) : Post Malone 
+  * Song's name : Sugar Wraith
+  * Link of the song : https://open.spotify.com/track/0MrRAUcB8AZiB9ue2VOBYe
+  * Album : beerbongs & bentleys
+
+
+  * Artist(s) : Baby Bash Frankie J 
+  * Song's name : Suga Suga
+  * Link of the song : https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU
+  * Album : Tha Smokin' Nephew
+
+
+  * Artist(s) : Red Hot Chili Peppers 
+  * Song's name : Under The Bridge
+  * Link of the song : https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0
+  * Album : Blood Sugar Sex Magik (Deluxe Version)
+
+
+  * Artist(s) : Pentatonix 
+  * Song's name : Dance of the Sugar Plum Fairy
+  * Link of the song : https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh
+  * Album : That's Christmas To Me (Deluxe Edition)
+
+
+  * Artist(s) : Def Leppard 
+  * Song's name : Pour Some Sugar On Me - Remastered 2017
+  * Link of the song : https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO
+  * Album : Hysteria (Super Deluxe)
+
+
+  * Artist(s) : The Archies 
+  * Song's name : Sugar, Sugar
+  * Link of the song : https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF
+  * Album : The Very Best Of "The Archies"
+
+
+  * Artist(s) : Robin Schulz Francesco Yates 
+  * Song's name : Sugar (feat. Francesco Yates)
+  * Link of the song : https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w
+  * Album : SUGAR
+
+
+  * Artist(s) : System Of A Down 
+  * Song's name : Sugar
+  * Link of the song : https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG
+  * Album : System Of A Down (Bonus Pack)
+
+
+  * Artist(s) : The Rolling Stones 
+  * Song's name : Brown Sugar
+  * Link of the song : https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU
+  * Album : Sticky Fingers (Remastered)
+
+
+  * Artist(s) : Four Tops 
+  * Song's name : I Can't Help Myself (Sugar Pie, Honey Bunch)
+  * Link of the song : https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV
+  * Album : The Definitive Collection
+
+
+  * Artist(s) : Sugar Ray 
+  * Song's name : Every Morning - Remastered
+  * Link of the song : https://open.spotify.com/track/6Neq7tjnknt4URNI8txFL4
+  * Album : The Best Of Sugar Ray
+
+
+  * Artist(s) : Sugar Ray 
+  * Song's name : Fly
+  * Link of the song : https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4
+  * Album : Floored
+
+
+  * Artist(s) : Red Hot Chili Peppers 
+  * Song's name : Give It Away
+  * Link of the song : https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0
+  * Album : Blood Sugar Sex Magik (Deluxe Version)
+
+
+  * Artist(s) : Neil Young 
+  * Song's name : Sugar Mountain
+  * Link of the song : https://open.spotify.com/track/5kqg9cLyvrZCzeziNIFZCD
+  * Album : Songs for Judy
+
+
+  * Artist(s) : D'Angelo 
+  * Song's name : Brown Sugar
+  * Link of the song : https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE
+  * Album : Brown Sugar
+
+
+  * Artist(s) : Steven Universe Rebecca Sugar 
+  * Song's name : Love Like You (End Credits)
+  * Link of the song : https://open.spotify.com/track/2HD2g1syRNaqanstTj8zfJ
+  * Album : Steven Universe, Vol. 1 (Original Soundtrack)
+
+
+  * Artist(s) : AZ 
+  * Song's name : Sugar Hill
+  * Link of the song : https://open.spotify.com/track/0lZWjBImx6kNe3WtOA09Xu
+  * Album : Doe Or Die
+
+
+  * Artist(s) : D'Angelo 
+  * Song's name : Lady
+  * Link of the song : https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66
+  * Album : Brown Sugar
