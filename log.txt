@@ -253,3 +253,129 @@
   * Language : English
   * Plot : In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
   * Actors : Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
+
+* Time : 2018-12-6 16:20:44
+* Command : do-what-it-says undefined
+
+* Time : 2018-12-6 16:20:44
+* Command : spotify-this-song "I Want it That Way"
+
+
+  * Artist(s) : Backstreet Boys 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+  * Album : The Hits--Chapter One
+
+
+  * Artist(s) : Anthem Lights 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+  * Album : Covers Part IV
+
+
+  * Artist(s) : Tyler and Mark 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+  * Album : Beautiful Dreams
+
+
+  * Artist(s) : Backstreet Boys 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+  * Album : Millennium
+
+
+  * Artist(s) : "Weird Al" Yankovic 
+  * Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+  * Link of the song : https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+  * Album : Poodle Hat
+
+
+  * Artist(s) : Backstreet Boys 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+  * Album : 90 Sweet 90s Hits!
+
+
+  * Artist(s) : Manuel Costa 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+  * Album : I Want It That Way
+
+
+  * Artist(s) : Boyce Avenue 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+  * Album : Cover Sessions, Vol. 2
+
+
+  * Artist(s) : Backstreet Boys 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+  * Album : NKOTBSB
+
+
+  * Artist(s) : Glee Cast 
+  * Song's name : Bye Bye Bye / I Want It That Way (Glee Cast Version)
+  * Link of the song : https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+  * Album : Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+
+  * Artist(s) : Dynamite Boy 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+  * Album : Punk Goes Pop
+
+
+  * Artist(s) : Steel Panther 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+  * Album : I Want It That Way
+
+
+  * Artist(s) : MaxLife 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/5MZFb9O6bnPjoDMjL0K2iM
+  * Album : I Want It That Way
+
+
+  * Artist(s) : Scott Bradlee's Postmodern Jukebox Shoshana Bean 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+  * Album : Selfies on Kodachrome
+
+
+  * Artist(s) : #90s Update 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+  * Album : #90s Update
+
+
+  * Artist(s) : Scary Pockets Casey Abrams 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+  * Album : Nu Funk
+
+
+  * Artist(s) : "Weird Al" Yankovic 
+  * Song's name : Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+  * Link of the song : https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+  * Album : The Essential "Weird Al" Yankovic
+
+
+  * Artist(s) : Backstreet Boys 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+  * Album : NOW That's What I Call 90s Pop
+
+
+  * Artist(s) : Landon Austin & Julia Sheer 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+  * Album : I Want It That Way
+
+
+  * Artist(s) : Scott Bradlee's Postmodern Jukebox Shoshana Bean 
+  * Song's name : I Want It That Way
+  * Link of the song : https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+  * Album : PMJ Is For Lovers: The Love Song Collection

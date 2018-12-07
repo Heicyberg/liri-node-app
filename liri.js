@@ -73,6 +73,9 @@ function appMain(action,searchTerm){
 
     switch(action){
         case 'movie-this':
+        if (!searchTerm){
+            searchTerm = "Mr. Nobody."
+        }
         movieOmdb(searchTerm)
         break;
         case 'concert-this':
