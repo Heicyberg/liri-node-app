@@ -15,6 +15,9 @@ This app is fully fuctional, the using process is demenstrated by flowing screen
 
 ![Alt text](./screenshots/movie-this.png?raw=true "Optional Title")
 
+If you forget to put a name, it will bring you the "Mr.Nobody"
+![Alt text](./screenshots/movie_no_name.png?raw=true "Optional Title")
+
 4. You can put you command on a text file, Liri will read that file and act base on it. Here, the text was wirten : "spotify-this-song, I Want it That Way". And you can see the results as followed.
 
 ![Alt text](./screenshots/do-what-it-says.png?raw=true "Optional Title")
